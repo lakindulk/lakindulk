@@ -5,7 +5,7 @@
 #### 🌟 Meet Lakindu Kavishka, a dynamic and passionate individual with a flair for technology and innovation. With a keen eye for detail and a knack for problem-solving, they thrive in challenging environments, constantly seeking opportunities to learn and grow. As an aspiring developer, they are dedicated to leveraging their skills to create meaningful solutions that make a difference. 
 
 ### ☎️ Reach Me Out 
-[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/lakindu-kavishka-8a1356217) [![Instagram](https://img.icons8.com/fluent/48/000000/instagram-new.png)](https://www.instagram.com/hiru__herath_?igsh=cWJucTI3aWxzN2tk&utm_source=qr) [![Gmail](https://img.icons8.com/color/48/000000/gmail.png)](mailto:hiru.herath2008@gmail.com)
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/lakindu-kavishka-8a1356217) [![Instagram](https://img.icons8.com/fluent/48/000000/instagram-new.png)](https://www.instagram.com/lakindukavishka?igsh=MWlqaXcxZWc5czlpeg%3D%3D&utm_source=qr) [![Gmail](https://img.icons8.com/color/48/000000/gmail.png)](mailto:lakindulk9@gmail.com)
 
 
 ### 🚀 Programming Languages
