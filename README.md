@@ -24,11 +24,7 @@
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=lakindulk&layout=compact)
 
-<p align="center">
-    <a href="https://github.com/lakindulk/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="lakindulk's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=lakindulk&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
+
 <!--
 *HiruniHerath/HiruniHerath* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 
