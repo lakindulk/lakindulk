@@ -21,6 +21,6 @@
 <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> 
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> 
 <img src="https://img.icons8.com/color/48/000000/python.png"/> 
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer">
+ <img src="https://developer.android.com" />
 
 
