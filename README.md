@@ -1,6 +1,6 @@
 <p>
   <img src="https://media2.giphy.com/media/yMk7HITGXCioXKmTlt/source.gif" alt="gif" width="50" height="50" />
-  <text style="margin-top:-20px;"> Hi, I'm Laki. </text>
+  <text style="margin-top:-320px;"> Hi, I'm Laki. </text>
 </p>
 
 ###### Enthusiastic tech enthusiast | 🌟 Passionate learner | 💡 Creative problem solver | 🚀 Aspiring developer | 🌐 Connecting ideas and people | 🎨 Designing | 
