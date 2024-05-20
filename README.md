@@ -21,6 +21,5 @@
 <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> 
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> 
 <img src="https://img.icons8.com/color/48/000000/python.png"/> 
- <img src="https://developer.android.com" />
-
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
 
