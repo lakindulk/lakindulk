@@ -21,6 +21,6 @@
 <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> 
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> 
 <img src="https://img.icons8.com/color/48/000000/python.png"/> 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flottiefiles.com%2Fanimations%2Freact-logo-spinning-7YFjKOZmr0&psig=AOvVaw1QE8wwmZnWL_qhwIytdg-T&ust=1716293715634000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqGAoTCOjBubuanIYDFQAAAAAdAAAAABCXAQ"/>
+<img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Flottiefiles.com%2Fanimations%2Freact-logo-spinning-7YFjKOZmr0&psig=AOvVaw1QE8wwmZnWL_qhwIytdg-T&ust=1716293715634000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqGAoTCOjBubuanIYDFQAAAAAdAAAAABCXAQ](https://media3.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif?cid=6c09b952fk20go9yiw3ndmuxs1lhqxglpqa5p10ar68hedfe&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s)](https://giphy.com/stickers/devrock-edr-escueladevrock-no-de-eNAsjO55tPbgaor7ma)"/>
 
 
