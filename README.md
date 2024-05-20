@@ -1,5 +1,5 @@
-# Hi Im Laki..👋
-<img src="https://media2.giphy.com/media/yMk7HITGXCioXKmTlt/source.gif" alt="gif" width="45" height="45" /> 
+# Hi Im Laki..<img src="https://media2.giphy.com/media/yMk7HITGXCioXKmTlt/source.gif" alt="gif" width="50" height="50" /> 
+
 
 
 ###### Enthusiastic tech enthusiast | 🌟 Passionate learner | 💡 Creative problem solver | 🚀 Aspiring developer | 🌐 Connecting ideas and people | 🎨 Designing | 
