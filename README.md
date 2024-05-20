@@ -21,7 +21,7 @@
 <img src="https://img.icons8.com/color/48/000000/python.png"/> 
 
 
-
+(https://github-readme-stats.vercel.app/api?username=lakindulk&show_icons=true&theme=radical) 
 
 
 
