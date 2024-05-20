@@ -1,4 +1,6 @@
 # Hi Im Laki..👋
+<img src="https://media2.giphy.com/media/yMk7HITGXCioXKmTlt/source.gif" /> 
+
 
 ###### Enthusiastic tech enthusiast | 🌟 Passionate learner | 💡 Creative problem solver | 🚀 Aspiring developer | 🌐 Connecting ideas and people | 🎨 Designing | 
 ![](https://komarev.com/ghpvc/?username=lakindulk&color=dc143c)
