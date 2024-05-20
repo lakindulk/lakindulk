@@ -1,6 +1,7 @@
 # Hi Im Lakindu👋
 
 ###### Enthusiastic tech enthusiast | 🌟 Passionate learner | 💡 Creative problem solver | 🚀 Aspiring developer | 🌐 Connecting ideas and people | 🎨 Designing a brighter future | 
+![](https://komarev.com/ghpvc/?username=lakindulk&color=dc143c)
 
 #### 🌟 Meet Lakindu Kavishka, a dynamic and passionate individual with a flair for technology and innovation. With a keen eye for detail and a knack for problem-solving, they thrive in challenging environments, constantly seeking opportunities to learn and grow. As an aspiring developer, they are dedicated to leveraging their skills to create meaningful solutions that make a difference. 
 
@@ -21,8 +22,9 @@
 <img src="https://img.icons8.com/color/48/000000/python.png"/> 
 
 
-(https://github-readme-stats.vercel.app/api?username=lakindulk&show_icons=true&theme=radical) 
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=lakindulk&layout=compact)
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=lakindulk&theme=https://camo.githubusercontent.com/f988c71fa45f3fd21b46790737aa72de8dd3258c527f5850c62983b018cb8307/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d7472756526686964653d636f6e74726962732c7072732663616368655f7365636f6e64733d3836343030267468656d653d64656661756c74=true&count_private=true)
 
 
 <!--
