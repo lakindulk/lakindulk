@@ -2,6 +2,7 @@
   <text style="margin-top:-320px;"> Hi, I'm Laki. </text> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
 </p>
 
+  <img src="https://media2.giphy.com/media/yMk7HITGXCioXKmTlt/source.gif" alt="gif" width="50" height="50" />
 ###### Enthusiastic tech enthusiast | 🌟 Passionate learner | 💡 Creative problem solver | 🚀 Aspiring developer | 🌐 Connecting ideas and people | 🎨 Designing | 
 ![](https://komarev.com/ghpvc/?username=lakindulk&color=dc143c)
 
