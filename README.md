@@ -1,12 +1,12 @@
-# Hi Im Lakindu👋
+# Hi Im Laki..👋
 
-###### Enthusiastic tech enthusiast | 🌟 Passionate learner | 💡 Creative problem solver | 🚀 Aspiring developer | 🌐 Connecting ideas and people | 🎨 Designing a brighter future | 
+###### Enthusiastic tech enthusiast | 🌟 Passionate learner | 💡 Creative problem solver | 🚀 Aspiring developer | 🌐 Connecting ideas and people | 🎨 Designing | 
 ![](https://komarev.com/ghpvc/?username=lakindulk&color=dc143c)
 
-#### 🌟 Meet Lakindu Kavishka, a dynamic and passionate individual with a flair for technology and innovation. With a keen eye for detail and a knack for problem-solving, they thrive in challenging environments, constantly seeking opportunities to learn and grow. As an aspiring developer, they are dedicated to leveraging their skills to create meaningful solutions that make a difference. 
+#### 🌟 Meet Lakindu Kavishka, the maestro of pixels and code! With a flair for frontend finesse and full-stack wizardry, Lakindu is a tech virtuoso on a mission. Armed with a keen eye for design and a knack for unraveling complex challenges, they're the creative force you want on your team. Get ready to be dazzled as Lakindu weaves magic into every project, sculpting digital experiences that defy expectations and ignite imaginations. Brace yourself for a journey where innovation knows no bounds, and Lakindu reigns supreme in the realm of web mastery!
 
 ### ☎️ Reach Me Out 
-[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/lakindu-kavishka-8a1356217) [![Instagram](https://img.icons8.com/fluent/48/000000/instagram-new.png)](https://www.instagram.com/lakindukavishka?igsh=MWlqaXcxZWc5czlpeg%3D%3D&utm_source=qr) [![Gmail](https://img.icons8.com/color/48/000000/gmail.png)](mailto:lakindulk9@gmail.com)
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/lakindu-kavishka-8a1356217) [![Gmail](https://img.icons8.com/color/48/000000/gmail.png)](mailto:lakindulk9@gmail.com) [![Instagram](https://img.icons8.com/fluent/48/000000/instagram-new.png)](https://www.instagram.com/lakindukavishka?igsh=MWlqaXcxZWc5czlpeg%3D%3D&utm_source=qr)  [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/lakindu-kavishka-8a1356217) [![Instagram]
 
 
 ### 🚀 Programming Languages
