@@ -1,9 +1,9 @@
 <p>
-  <img src="https://media2.giphy.com/media/yMk7HITGXCioXKmTlt/source.gif" alt="gif" width="50" height="50" />
   <text style="margin-top:-320px;"> Hi, I'm Laki. </text> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
 </p>
 
 ###### Enthusiastic tech enthusiast | 🌟 Passionate learner | 💡 Creative problem solver | 🚀 Aspiring developer | 🌐 Connecting ideas and people | 🎨 Designing | 
+  <img src="https://media2.giphy.com/media/yMk7HITGXCioXKmTlt/source.gif" alt="gif" width="50" height="50" />
 ![](https://komarev.com/ghpvc/?username=lakindulk&color=dc143c)
 
 #### 🌟 Meet Lakindu Kavishka, the maestro of pixels and code! With a flair for frontend finesse and full-stack wizardry, Lakindu is a tech virtuoso on a mission. Armed with a keen eye for design and a knack for unraveling complex challenges, they're the creative force you want on your team. Get ready to be dazzled as Lakindu weaves magic into every project, sculpting digital experiences that defy expectations and ignite imaginations. Brace yourself for a journey where innovation knows no bounds, and Lakindu reigns supreme in the realm of web mastery!
