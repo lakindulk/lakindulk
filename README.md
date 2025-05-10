@@ -28,5 +28,5 @@
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
- <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg](https://res.cloudinary.com/iplus/image/upload/v1746856564/vpmqtwrlrxweuq1xx2iz.png" alt="firebase" width="40" height="40"/>
+ <img src="https://res.cloudinary.com/iplus/image/upload/v1746856564/vpmqtwrlrxweuq1xx2iz.png" alt="firebase" width="40" height="40"/>
  
