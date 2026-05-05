@@ -73,5 +73,5 @@ With a strong focus on frontend finesse and full-stack development, I enjoy solv
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakindulk&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lakindulk&layout=compact&theme=default" />
 </p>
