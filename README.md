@@ -1,36 +1,77 @@
-<p>
-  <text style="margin-top:-320px;"> Hi, I'm Laki. </text> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
+<h2 align="center">
+  Hi, I'm Laki 👋
+</h2>
+
+<p align="center">
+  <img src="https://media2.giphy.com/media/yMk7HITGXCioXKmTlt/source.gif" width="80" />
 </p>
 
-<img src="https://media2.giphy.com/media/yMk7HITGXCioXKmTlt/source.gif" alt="gif" width="60" height="60" /> Enthusiastic tech enthusiast | 🌟 Passionate learner | 💡 Creative problem solver | 🚀 Aspiring developer | 🌐 Connecting ideas and people | 🎨 Designing | 
- 
-![](https://komarev.com/ghpvc/?username=lakindulk&color=dc143c)
+<p align="center">
+  💻 Tech Enthusiast | 🌟 Passionate Learner | 💡 Problem Solver <br>
+  🚀 Aspiring Developer | 🌐 Connecting Ideas | 🎨 Creative Designer
+</p>
 
-#### 🌟 Meet Lakindu Kavishka, the maestro of pixels and code! With a flair for frontend finesse and full-stack wizardry, Lakindu is a tech virtuoso on a mission. Armed with a keen eye for design and a knack for unraveling complex challenges, they're the creative force you want on your team. Get ready to be dazzled as Lakindu weaves magic into every project, sculpting digital experiences that defy expectations and ignite imaginations. Brace yourself for a journey where innovation knows no bounds, and Lakindu reigns supreme in the realm of web mastery!
-<a href="https://fir-tes-laki.web.app/" target="_blank" style="text-decoration:none; font-weight:bold;">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lakindulk&color=dc143c" />
+</p>
 
-  👉 Click to visit Lakindu's Portfolio
+---
 
-</a>
-### ☎️ Reach Me Out 
-[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/lakindu-kavishka-8a1356217) [![Gmail](https://img.icons8.com/color/48/000000/gmail.png)](mailto:lakindulk9@gmail.com) [![Instagram](https://img.icons8.com/fluent/48/000000/instagram-new.png)](https://www.instagram.com/lakindukavishka?igsh=MWlqaXcxZWc5czlpeg%3D%3D&utm_source=qr)  [![facebook](https://img.icons8.com/color/48/000000/facebook.png)](https://m.facebook.com/lakindu.kavishka?mibextid=LQQJ4d)
+### 🌟 About Me
+Meet **Lakindu Kavishka** — a creative developer blending design and code to build engaging digital experiences.  
+With a strong focus on frontend finesse and full-stack development, I enjoy solving complex problems and crafting clean, user-friendly interfaces.
 
+---
 
-### 🚀 Programming Languages and Tools
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=lakindulk&layout=compact)
+### 🌐 Portfolio
+<p align="center">
+  <a href="https://fir-tes-laki.web.app/" target="_blank" style="text-decoration:none;">
+    <strong>🚀 Visit My Portfolio</strong>
+  </a>
+</p>
 
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> 
-<img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/> 
-<img src="https://img.icons8.com/officexs/50/000000/react.png"/> 
-<img src="https://img.icons8.com/color/48/000000/nodejs.png"/> 
-<img src="https://img.icons8.com/offices/40/000000/php-logo.png"/> 
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> 
-<img src="https://img.icons8.com/color/48/000000/mongodb.png"/> 
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> 
-<img src="https://img.icons8.com/color/48/000000/python.png"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
- <img src="https://res.cloudinary.com/iplus/image/upload/v1746856564/vpmqtwrlrxweuq1xx2iz.png" alt="firebase" width="auto" height="40"/>
- 
+---
+
+### ☎️ Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/lakindu-kavishka-8a1356217">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
+  </a>
+  <a href="mailto:lakindulk9@gmail.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail.png"/>
+  </a>
+  <a href="https://www.instagram.com/lakindukavishka">
+    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>
+  </a>
+  <a href="https://m.facebook.com/lakindu.kavishka">
+    <img src="https://img.icons8.com/color/48/000000/facebook.png"/>
+  </a>
+</p>
+
+---
+
+### 🚀 Tech Stack
+<p align="center">
+  <img src="https://img.icons8.com/color/48/html-5--v1.png"/>
+  <img src="https://img.icons8.com/color/48/css3.png"/>
+  <img src="https://img.icons8.com/color/48/javascript--v2.png"/>
+  <img src="https://img.icons8.com/officexs/50/react.png"/>
+  <img src="https://img.icons8.com/color/48/nodejs.png"/>
+  <img src="https://img.icons8.com/offices/40/php-logo.png"/>
+  <img src="https://img.icons8.com/color/48/mysql-logo.png"/>
+  <img src="https://img.icons8.com/color/48/mongodb.png"/>
+  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/>
+  <img src="https://img.icons8.com/color/48/python.png"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
+  <img src="https://res.cloudinary.com/iplus/image/upload/v1746856564/vpmqtwrlrxweuq1xx2iz.png" height="40"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakindulk&layout=compact" />
+</p>
