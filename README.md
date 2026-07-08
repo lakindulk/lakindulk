@@ -33,7 +33,7 @@ With a strong focus on frontend finesse and full-stack development, I enjoy solv
 ---
 
 ### ☎️ Connect With Me
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/lakindu-kavishka-8a1356217">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
   </a>
