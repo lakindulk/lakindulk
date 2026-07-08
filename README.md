@@ -24,7 +24,7 @@ With a strong focus on frontend finesse and full-stack development, I enjoy solv
 ---
 
 ### 🌐 Portfolio
-<p align="center">
+<p align="left">
   <a href="https://fir-tes-laki.web.app/" target="_blank" style="text-decoration:none;">
     <strong>🚀 Visit My Portfolio</strong>
   </a>
